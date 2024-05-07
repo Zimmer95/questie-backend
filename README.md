@@ -59,7 +59,7 @@ Questie is an MIT-licensed open source project. It can grow thanks to the sponso
 
 - Author - [Your Name](https:yourwebsite.com)
 - Website - [https:questie.com](https:questie.com/)
-- Twitter - [@questieframework](https:twitter.com/questieframework)
+- Twitter - [@questieApp](https:twitter.com/questieframework)
 
 ## License
 
